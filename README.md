@@ -19,7 +19,7 @@
 
 En el sprint desarrollé el script git_monitor.py que se encarga de detectar cambios entre los commits locales y remotos con el objetivo de automatizar el flujo de despliegue. Esto nos ayudo a que se integre más adelante con los manifiestos de la aplicación.
 
-Para el sprint 2 y 3 continué mejorando git_monitor.py, agregándole la lógica para hacer git pull y aplicar los manifiestos automáticamente si se detectaban cambios. También implementé pruebas unitarias para validar su comportamiento desde etapas tempranas y, posteriormente, desarrollé pruebas de integración en Minikube (integration-tests.py) para asegurar que todo funcionara correctamente en un entorno real. Ademas, documenté el proceso para facilitar su uso por parte del equipo.
+Para el sprint 2 y 3 continué mejorando git_monitor.py, agregándole la lógica para hacer git pull y aplicar los manifiestos automáticamente si se detectaban cambios. También implementé pruebas unitarias para validar su comportamiento desde etapas tempranas y, posteriormente, desarrollé pruebas de integración en Minikube (integration-tests.py) para asegurar que todo funcionara correctamente en un entorno real. Ademas, documenté el proceso para facilitar su uso para el equipo.
 
 ## Instalación
 
@@ -63,4 +63,3 @@ pytest .\integration-tests.py
 - [**Video Sprint 2**](https://drive.google.com/file/d/1XCiLPSQDIrydoPC9nj7fgx0n35-fumKQ/view?usp=sharing)
 
 - [**Video Sprint 3**](https://drive.google.com/file/d/1-Z0oBtFXMEhAb5o0QYTvQhvlcvZfD968/view?usp=sharing)
-- 
