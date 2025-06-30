@@ -3,9 +3,8 @@
 * Alumno: Joel Benjamin Seminario Serna
 * Código: 20210056G
 * Correo institucional: joel.seminario.s@uni.pe
-* Enlace del repositorio grupal: https://github.com/AlemEsv/pc4-grupo4-tema1
-  
-https://github.com/AlemEsv/app-manifests
+* Enlace del repositorio grupal: https://github.com/AlemEsv/pc4-grupo4-tema1 
+                                 https://github.com/AlemEsv/app-manifests
 ## Videos:
 * Carpeta de videos grupal: https://drive.google.com/drive/folders/17LHca0hkqFgUesVOaw6JTp_Z-2xtlv5w?usp=sharing
   
